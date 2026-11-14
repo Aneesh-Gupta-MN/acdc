@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Third molar model preview</title>
+  <style>
+    :root { color-scheme: light; }
+    html, body { margin: 0; min-height: 100%; background: #dedbd4; }
+    body { min-height: 100vh; overflow: hidden; }
+    canvas { display: block; width: 100vw; height: 100vh; }
+    .label { position: fixed; left: 42px; top: 34px; z-index: 2; color: #242424; font: 600 12px/1.5 Arial, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+  </style>
+</head>
+<body>
+  <div class="label" id="status">Third molar • source model preview</div>
+  <script type="importmap">
+    {"imports":{"three":"./vendor/three/three.module.js"}}
+  </script>
+  <script type="module">
+    import * as THREE from './vendor/three/three.module.js';
+    import { GLTFLoader } from './vendor/three/examples/jsm/loaders/GLTFLoader.js';
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(35, innerWidth / innerHeight, .01, 100);
+    camera.position.set(0, 0, 4.8);
+    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true });
+    renderer.setPixelRatio(Math.min(devicePixelRatio, 1.5));
+    renderer.setSize(innerWidth, innerHeight);
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+    renderer.toneMapping = THREE.ACESFilmicToneMapping;
+    renderer.toneMappingExposure = 1.05;
+    document.body.appendChild(renderer.domElement);
+    scene.add(new THREE.HemisphereLight(0xffffff, 0x777777, 2.1));
+    const key = new THREE.DirectionalLight(0xffffff, 2.8); key.position.set(2.5, 3.5, 4); scene.add(key);
+    const fill = new THREE.DirectionalLight(0xffffff, 1.1); fill.position.set(-3, 1, 2); scene.add(fill);
+    const group = new THREE.Group(); scene.add(group);
+    new GLTFLoader().load('./third_molar.glb', async (gltf) => {
+      const response = await fetch('./third_molar.glb');
+      const hash = [...new Uint8Array(await crypto.subtle.digest('SHA-256', await response.arrayBuffer()))].map((byte) => byte.toString(16).padStart(2, '0')).join('');
+      document.querySelector('#status').innerHTML = 'Third molar • original materials<br>SHA-256 ' + hash;
+      const clone = gltf.scene;
+      const bounds = new THREE.Box3().setFromObject(clone);
+      const size = bounds.getSize(new THREE.Vector3());
+      const center = bounds.getCenter(new THREE.Vector3());
+      const maxSize = Math.max(size.x, size.y, size.z) || 1;
+      clone.position.sub(center);
+      clone.scale.setScalar(2.55 / maxSize);
+      clone.traverse((object) => {
+        if (!object.isMesh) return;
+        object.castShadow = true; object.receiveShadow = true;
+      });
+      group.add(clone);
+      animate();
+    }, undefined, (error) => {
+      document.querySelector('#status').textContent = 'Model error: ' + (error?.message || error);
+      console.error(error);
+    });
+    addEventListener('error', (event) => { document.querySelector('#status').textContent = 'Runtime error: ' + event.message; });
+    function animate(now = 0) {
+      group.rotation.y = Math.sin(now * .00045) * .06;
+      group.rotation.x = Math.cos(now * .00032) * .018;
+      renderer.render(scene, camera);
+      requestAnimationFrame(animate);
+    }
+    addEventListener('resize', () => { camera.aspect = innerWidth / innerHeight; camera.updateProjectionMatrix(); renderer.setSize(innerWidth, innerHeight); });
+  </script>
+</body>
+</html>

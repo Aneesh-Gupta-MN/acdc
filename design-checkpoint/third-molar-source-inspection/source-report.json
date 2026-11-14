@@ -1,0 +1,95 @@
+{
+  "asset": {
+    "extras": {
+      "author": "Pixel Swan (https://sketchfab.com/Pixelswan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/third-molar-ba5d584580a24f00b96f7c23cb6b1355",
+      "title": "Third molar"
+    },
+    "generator": "Sketchfab-16.73.0",
+    "version": "2.0"
+  },
+  "nodes": [
+    {
+      "name": "Sketchfab_model"
+    },
+    {
+      "name": "model.fbx"
+    },
+    {
+      "name": "RootNode"
+    },
+    {
+      "name": "Third_Molar_WN_UV:Group50179"
+    },
+    {
+      "name": "Third_Molar_WN_UV:Group50179_Third_Molar_MTL_0",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Third_Molar_WN_UV:Group50179_Third_Molar_MTL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0.017403749924320505,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "Third_Molar_MTL",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8325087403133812,
+          0.8325087403133812,
+          0.8325087403133812,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "images": [
+    {
+      "bufferView": 4,
+      "mimeType": "image/jpeg"
+    },
+    {
+      "bufferView": 5,
+      "mimeType": "image/png"
+    },
+    {
+      "bufferView": 6,
+      "mimeType": "image/png"
+    }
+  ],
+  "vertexColors": false
+}

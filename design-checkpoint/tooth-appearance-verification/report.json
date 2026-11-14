@@ -1,0 +1,186 @@
+[
+  {
+    "viewport": "mobile-390x844",
+    "appearance": "source",
+    "progress": 0,
+    "filename": "mobile-390x844-source-p0.png",
+    "scrollY": 0,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 390,
+      "height": 430
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 844
+    }
+  },
+  {
+    "viewport": "mobile-390x844",
+    "appearance": "source",
+    "progress": 0.8,
+    "filename": "mobile-390x844-source-p0-8.png",
+    "scrollY": 1215,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 390,
+      "height": 430
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 844
+    }
+  },
+  {
+    "viewport": "mobile-390x844",
+    "appearance": "source",
+    "requests": [
+      {
+        "url": "http://127.0.0.1:3001/images/3d/third-molar-presentation-basecolor.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:3001/models/third_molar.glb",
+        "status": 200
+      }
+    ]
+  },
+  {
+    "viewport": "mobile-390x844",
+    "appearance": "presentation",
+    "progress": 0,
+    "filename": "mobile-390x844-presentation-p0.png",
+    "scrollY": 0,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 390,
+      "height": 430
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 844
+    }
+  },
+  {
+    "viewport": "mobile-390x844",
+    "appearance": "presentation",
+    "progress": 0.8,
+    "filename": "mobile-390x844-presentation-p0-8.png",
+    "scrollY": 1215,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 390,
+      "height": 430
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 844
+    }
+  },
+  {
+    "viewport": "mobile-390x844",
+    "appearance": "presentation",
+    "requests": [
+      {
+        "url": "http://127.0.0.1:3001/images/3d/third-molar-presentation-basecolor.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:3001/models/third_molar.glb",
+        "status": 200
+      }
+    ]
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "appearance": "source",
+    "progress": 0,
+    "filename": "desktop-1440x900-source-p0.png",
+    "scrollY": 0,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 660,
+      "height": 648
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 900
+    }
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "appearance": "source",
+    "progress": 0.8,
+    "filename": "desktop-1440x900-source-p0-8.png",
+    "scrollY": 1116,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 660,
+      "height": 648
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 900
+    }
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "appearance": "source",
+    "requests": [
+      {
+        "url": "http://127.0.0.1:3001/images/3d/third-molar-presentation-basecolor.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:3001/models/third_molar.glb",
+        "status": 200
+      }
+    ]
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "appearance": "presentation",
+    "progress": 0,
+    "filename": "desktop-1440x900-presentation-p0.png",
+    "scrollY": 0,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 660,
+      "height": 648
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 900
+    }
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "appearance": "presentation",
+    "progress": 0.8,
+    "filename": "desktop-1440x900-presentation-p0-8.png",
+    "scrollY": 1116,
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "canvasBox": {
+      "width": 660,
+      "height": 648
+    },
+    "stageBox": {
+      "top": 0,
+      "bottom": 900
+    }
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "appearance": "presentation",
+    "requests": [
+      {
+        "url": "http://127.0.0.1:3001/images/3d/third-molar-presentation-basecolor.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:3001/models/third_molar.glb",
+        "status": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+.backgrounds {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.layer {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
+.layer img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.burgundy {
+  opacity: 0 !important;
+}
+
+.backgrounds[data-ready="true"] .burgundy {
+  opacity: var(--burgundy-opacity) !important;
+}
+
+@media (min-width: 700px) {
+  .layer img {
+    /* Keep the broad highlight and lower folds in the portrait art on wide crops. */
+    object-position: 50% 54%;
+  }
+}

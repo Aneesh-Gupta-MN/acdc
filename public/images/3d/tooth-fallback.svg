@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Ivory tooth illustration</title>
+  <desc id="desc">A soft ivory tooth shape on a burgundy editorial background.</desc>
+  <rect width="900" height="900" fill="#411922"/>
+  <circle cx="700" cy="210" r="170" fill="#581D2B"/>
+  <path d="M271 184c-57 73-69 162-52 255 17 92 48 177 112 227 34 27 66 14 76-39l21-128c5-30 18-44 31-44s26 14 31 44l21 128c10 53 42 66 76 39 64-50 95-135 112-227 17-93 5-182-52-255-74-96-302-96-376 0Z" fill="#FAF7F1"/>
+  <path d="M313 204c-36 64-42 130-30 207 13 82 34 142 71 181 15 16 25 7 30-19l19-113c7-41 23-62 55-62s48 21 55 62l19 113c5 26 15 35 30 19 37-39 58-99 71-181 12-77 6-143-30-207-56-76-234-76-290 0Z" fill="#F2E8D8" opacity=".82"/>
+  <path d="M305 252c20-42 42-72 70-88" fill="none" stroke="#C4A36A" stroke-width="4" opacity=".65"/>
+  <path d="M595 252c-20-42-42-72-70-88" fill="none" stroke="#C4A36A" stroke-width="4" opacity=".65"/>
+  <text x="54" y="80" fill="#C4A36A" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">ALL CARE DENTAL CENTRE</text>
+  <text x="54" y="835" fill="#FAF7F1" font-family="Georgia, serif" font-size="34">Care in every detail.</text>
+</svg>

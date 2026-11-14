@@ -1,0 +1,148 @@
+[
+  {
+    "viewport": "mobile-390x844",
+    "progress": 0,
+    "filename": "mobile-390x844-p0.png",
+    "ivoryOpacity": "1",
+    "burgundyOpacity": "0",
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "backgrounds": [
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      },
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      }
+    ]
+  },
+  {
+    "viewport": "mobile-390x844",
+    "progress": 0.45,
+    "filename": "mobile-390x844-p0-45.png",
+    "ivoryOpacity": "0.32579885857730473",
+    "burgundyOpacity": "0.6742011414226953",
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "backgrounds": [
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      },
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      }
+    ]
+  },
+  {
+    "viewport": "mobile-390x844",
+    "progress": 0.8,
+    "filename": "mobile-390x844-p0-8.png",
+    "ivoryOpacity": "0",
+    "burgundyOpacity": "1",
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "backgrounds": [
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      },
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      }
+    ]
+  },
+  {
+    "viewport": "mobile-390x844",
+    "imageResponses": [
+      {
+        "url": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "status": 200
+      }
+    ]
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "progress": 0,
+    "filename": "desktop-1440x900-p0.png",
+    "ivoryOpacity": "1",
+    "burgundyOpacity": "0",
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "backgrounds": [
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      },
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      }
+    ]
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "progress": 0.45,
+    "filename": "desktop-1440x900-p0-45.png",
+    "ivoryOpacity": "0.3260394077147847",
+    "burgundyOpacity": "0.6739605922852153",
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "backgrounds": [
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      },
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      }
+    ]
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "progress": 0.8,
+    "filename": "desktop-1440x900-p0-8.png",
+    "ivoryOpacity": "0",
+    "burgundyOpacity": "1",
+    "canvasBackground": "rgba(0, 0, 0, 0)",
+    "backgrounds": [
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      },
+      {
+        "currentSrc": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "complete": true,
+        "naturalWidth": 941
+      }
+    ]
+  },
+  {
+    "viewport": "desktop-1440x900",
+    "imageResponses": [
+      {
+        "url": "http://127.0.0.1:3001/images/opening/all-care-ivory-background.webp",
+        "status": 200
+      },
+      {
+        "url": "http://127.0.0.1:3001/images/opening/all-care-burgundy-background.webp",
+        "status": 200
+      }
+    ]
+  }
+]

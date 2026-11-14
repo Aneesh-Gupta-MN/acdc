@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 64" role="img" aria-labelledby="title">
+  <title>All Care Dental Centre</title>
+  <g fill="#581D2B">
+    <path d="M19 10c-5 8-7 15-6 23 1 11 6 20 14 24 3 2 6 1 7-3l1-16c1-4 3-6 5-6s4 2 5 6l1 16c1 4 4 5 7 3 8-4 13-13 14-24 1-8-1-15-6-23-7-11-36-11-43 0Z"/>
+    <path d="M83 30h14v2H83z"/>
+    <text x="110" y="28" font-family="Arial, sans-serif" font-size="15" letter-spacing="3.2">ALL CARE DENTAL</text>
+    <text x="110" y="49" font-family="Arial, sans-serif" font-size="15" letter-spacing="3.2">CENTRE</text>
+  </g>
+</svg>

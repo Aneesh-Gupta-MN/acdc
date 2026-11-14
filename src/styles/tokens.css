@@ -1,0 +1,18 @@
+/* Central brand tokens keep burgundy, ivory, cream, and restrained gold consistent across sections. */
+:root {
+  --color-burgundy: #581d2b;
+  --color-burgundy-deep: #411922;
+  --color-ivory: #faf7f1;
+  --color-cream: #f2e8d8;
+  --color-gold: #c4a36a;
+  --color-espresso: #49362f;
+  --color-charcoal: #252322;
+  --font-display: "Cormorant Garamond", Georgia, serif;
+  --font-ui: "Manrope", Inter, Arial, sans-serif;
+  --font-label: "Roboto Condensed", "Arial Narrow", sans-serif;
+  --radius-small: 2px;
+  --space-unit: 8px;
+  --content-max: 1280px;
+  --shared-header-height: calc(72px + env(safe-area-inset-top));
+  --shadow-soft: 0 24px 70px rgb(37 35 34 / 10%);
+}

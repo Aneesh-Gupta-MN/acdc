@@ -1,0 +1,1301 @@
+{
+  "checkpoints": [
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checkpoint": "p0",
+      "filename": "mobile-390x844-p0.png",
+      "scrollY": 0,
+      "storyDistance": 1519.2,
+      "stage": {
+        "top": 0,
+        "bottom": 844,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctor": {
+        "top": 2363.1875,
+        "bottom": 3207.1875,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctorHeading": {
+        "top": 2467.1875,
+        "bottom": 2567.78125,
+        "left": 24,
+        "right": 276,
+        "width": 252,
+        "height": 100.59375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 72
+      },
+      "initials": {
+        "top": 2966.78125,
+        "bottom": 3007.78125,
+        "left": 194.125,
+        "right": 235.65625,
+        "width": 41.53125,
+        "height": 41
+      },
+      "headerBacked": "false",
+      "debug": "p 0.00q 0.00identity holdstage 844pxdistance 1519pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checkpoint": "p0-3",
+      "filename": "mobile-390x844-p0-3.png",
+      "scrollY": 456,
+      "storyDistance": 1519.2,
+      "stage": {
+        "top": 0,
+        "bottom": 844,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctor": {
+        "top": 1907.1875,
+        "bottom": 2751.1875,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctorHeading": {
+        "top": 2011.1875,
+        "bottom": 2111.78125,
+        "left": 24,
+        "right": 276,
+        "width": 252,
+        "height": 100.59375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 72
+      },
+      "initials": {
+        "top": 2510.78125,
+        "bottom": 2551.78125,
+        "left": 194.125,
+        "right": 235.65625,
+        "width": 41.53125,
+        "height": 41
+      },
+      "headerBacked": "false",
+      "debug": "p 0.30q 0.00exit / scalestage 844pxdistance 1519pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checkpoint": "p0-52",
+      "filename": "mobile-390x844-p0-52.png",
+      "scrollY": 790,
+      "storyDistance": 1519.2,
+      "stage": {
+        "top": 0,
+        "bottom": 844,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctor": {
+        "top": 1573.1875,
+        "bottom": 2417.1875,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctorHeading": {
+        "top": 1677.1875,
+        "bottom": 1777.78125,
+        "left": 24,
+        "right": 276,
+        "width": 252,
+        "height": 100.59375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 72
+      },
+      "initials": {
+        "top": 2176.78125,
+        "bottom": 2217.78125,
+        "left": 194.125,
+        "right": 235.65625,
+        "width": 41.53125,
+        "height": 41
+      },
+      "headerBacked": "false",
+      "debug": "p 0.52q 0.00incoming messagestage 844pxdistance 1519pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checkpoint": "p0-8",
+      "filename": "mobile-390x844-p0-8.png",
+      "scrollY": 1215,
+      "storyDistance": 1519.2,
+      "stage": {
+        "top": 0,
+        "bottom": 844,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctor": {
+        "top": 1148.1875,
+        "bottom": 1992.1875,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctorHeading": {
+        "top": 1252.1875,
+        "bottom": 1352.78125,
+        "left": 24,
+        "right": 276,
+        "width": 252,
+        "height": 100.59375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 72
+      },
+      "initials": {
+        "top": 1751.78125,
+        "bottom": 1792.78125,
+        "left": 194.125,
+        "right": 235.65625,
+        "width": 41.53125,
+        "height": 41
+      },
+      "headerBacked": "false",
+      "debug": "p 0.80q 0.00message holdstage 844pxdistance 1519pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checkpoint": "q0-5",
+      "filename": "mobile-390x844-q0-5.png",
+      "scrollY": 1941,
+      "storyDistance": 1519.2,
+      "stage": {
+        "top": 0,
+        "bottom": 844,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctor": {
+        "top": 422.1875,
+        "bottom": 1266.1875,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctorHeading": {
+        "top": 526.1875,
+        "bottom": 626.78125,
+        "left": 24,
+        "right": 276,
+        "width": 252,
+        "height": 100.59375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 72
+      },
+      "initials": {
+        "top": 1025.78125,
+        "bottom": 1066.78125,
+        "left": 194.125,
+        "right": 235.65625,
+        "width": 41.53125,
+        "height": 41
+      },
+      "headerBacked": "false",
+      "debug": "p 1.00q 0.50doctor revealstage 844pxdistance 1519pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checkpoint": "q1",
+      "filename": "mobile-390x844-q1.png",
+      "scrollY": 2363,
+      "storyDistance": 1519.2,
+      "stage": {
+        "top": 0,
+        "bottom": 844,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctor": {
+        "top": 0.1875,
+        "bottom": 844.1875,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 844
+      },
+      "doctorHeading": {
+        "top": 104.1875,
+        "bottom": 204.78125,
+        "left": 24,
+        "right": 276,
+        "width": 252,
+        "height": 100.59375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 390,
+        "width": 390,
+        "height": 72
+      },
+      "initials": {
+        "top": 603.78125,
+        "bottom": 644.78125,
+        "left": 194.125,
+        "right": 235.65625,
+        "width": 41.53125,
+        "height": 41
+      },
+      "headerBacked": "true",
+      "debug": "p 1.00q 1.00doctor revealstage 844pxdistance 1519pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "checkpoint": "p0",
+      "filename": "short-360x740-p0.png",
+      "scrollY": 0,
+      "storyDistance": 1332,
+      "stage": {
+        "top": 0,
+        "bottom": 740,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 740
+      },
+      "doctor": {
+        "top": 2072,
+        "bottom": 2844.859375,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 772.859375
+      },
+      "doctorHeading": {
+        "top": 2176,
+        "bottom": 2268.875,
+        "left": 24,
+        "right": 258,
+        "width": 234,
+        "height": 92.875
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 72
+      },
+      "initials": {
+        "top": 2667.875,
+        "bottom": 2706.875,
+        "left": 187.84375,
+        "right": 228.53125,
+        "width": 40.6875,
+        "height": 39
+      },
+      "headerBacked": "false",
+      "debug": "p 0.00q 0.00identity holdstage 740pxdistance 1332pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "checkpoint": "p0-3",
+      "filename": "short-360x740-p0-3.png",
+      "scrollY": 400,
+      "storyDistance": 1332,
+      "stage": {
+        "top": 0,
+        "bottom": 740,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 740
+      },
+      "doctor": {
+        "top": 1672,
+        "bottom": 2444.859375,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 772.859375
+      },
+      "doctorHeading": {
+        "top": 1776,
+        "bottom": 1868.875,
+        "left": 24,
+        "right": 258,
+        "width": 234,
+        "height": 92.875
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 72
+      },
+      "initials": {
+        "top": 2267.875,
+        "bottom": 2306.875,
+        "left": 187.84375,
+        "right": 228.53125,
+        "width": 40.6875,
+        "height": 39
+      },
+      "headerBacked": "false",
+      "debug": "p 0.30q 0.00exit / scalestage 740pxdistance 1332pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "checkpoint": "p0-52",
+      "filename": "short-360x740-p0-52.png",
+      "scrollY": 693,
+      "storyDistance": 1332,
+      "stage": {
+        "top": 0,
+        "bottom": 740,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 740
+      },
+      "doctor": {
+        "top": 1379,
+        "bottom": 2151.859375,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 772.859375
+      },
+      "doctorHeading": {
+        "top": 1483,
+        "bottom": 1575.875,
+        "left": 24,
+        "right": 258,
+        "width": 234,
+        "height": 92.875
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 72
+      },
+      "initials": {
+        "top": 1974.875,
+        "bottom": 2013.875,
+        "left": 187.84375,
+        "right": 228.53125,
+        "width": 40.6875,
+        "height": 39
+      },
+      "headerBacked": "false",
+      "debug": "p 0.52q 0.00incoming messagestage 740pxdistance 1332pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "checkpoint": "p0-8",
+      "filename": "short-360x740-p0-8.png",
+      "scrollY": 1066,
+      "storyDistance": 1332,
+      "stage": {
+        "top": 0,
+        "bottom": 740,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 740
+      },
+      "doctor": {
+        "top": 1006,
+        "bottom": 1778.859375,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 772.859375
+      },
+      "doctorHeading": {
+        "top": 1110,
+        "bottom": 1202.875,
+        "left": 24,
+        "right": 258,
+        "width": 234,
+        "height": 92.875
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 72
+      },
+      "initials": {
+        "top": 1601.875,
+        "bottom": 1640.875,
+        "left": 187.84375,
+        "right": 228.53125,
+        "width": 40.6875,
+        "height": 39
+      },
+      "headerBacked": "false",
+      "debug": "p 0.80q 0.00message holdstage 740pxdistance 1332pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "checkpoint": "q0-5",
+      "filename": "short-360x740-q0-5.png",
+      "scrollY": 1702,
+      "storyDistance": 1332,
+      "stage": {
+        "top": 0,
+        "bottom": 740,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 740
+      },
+      "doctor": {
+        "top": 370,
+        "bottom": 1142.859375,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 772.859375
+      },
+      "doctorHeading": {
+        "top": 474,
+        "bottom": 566.875,
+        "left": 24,
+        "right": 258,
+        "width": 234,
+        "height": 92.875
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 72
+      },
+      "initials": {
+        "top": 965.875,
+        "bottom": 1004.875,
+        "left": 187.84375,
+        "right": 228.53125,
+        "width": 40.6875,
+        "height": 39
+      },
+      "headerBacked": "false",
+      "debug": "p 1.00q 0.50doctor revealstage 740pxdistance 1332pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 360,
+        "height": 740
+      },
+      "checkpoint": "q1",
+      "filename": "short-360x740-q1.png",
+      "scrollY": 2072,
+      "storyDistance": 1332,
+      "stage": {
+        "top": 0,
+        "bottom": 740,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 740
+      },
+      "doctor": {
+        "top": 0,
+        "bottom": 772.859375,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 772.859375
+      },
+      "doctorHeading": {
+        "top": 104,
+        "bottom": 196.875,
+        "left": 24,
+        "right": 258,
+        "width": 234,
+        "height": 92.875
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 360,
+        "width": 360,
+        "height": 72
+      },
+      "initials": {
+        "top": 595.875,
+        "bottom": 634.875,
+        "left": 187.84375,
+        "right": 228.53125,
+        "width": 40.6875,
+        "height": 39
+      },
+      "headerBacked": "true",
+      "debug": "p 1.00q 1.00doctor revealstage 740pxdistance 1332pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checkpoint": "p0",
+      "filename": "large-mobile-430x932-p0.png",
+      "scrollY": 0,
+      "storyDistance": 1677.6000000000001,
+      "stage": {
+        "top": 0,
+        "bottom": 932,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctor": {
+        "top": 2609.59375,
+        "bottom": 3541.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctorHeading": {
+        "top": 2713.59375,
+        "bottom": 2824.53125,
+        "left": 24,
+        "right": 303,
+        "width": 279,
+        "height": 110.9375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 72
+      },
+      "initials": {
+        "top": 3223.53125,
+        "bottom": 3267.53125,
+        "left": 210.984375,
+        "right": 257.0625,
+        "width": 46.078125,
+        "height": 44
+      },
+      "headerBacked": "false",
+      "debug": "p 0.00q 0.00identity holdstage 932pxdistance 1678pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checkpoint": "p0-3",
+      "filename": "large-mobile-430x932-p0-3.png",
+      "scrollY": 503,
+      "storyDistance": 1677.6000000000001,
+      "stage": {
+        "top": 0,
+        "bottom": 932,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctor": {
+        "top": 2106.59375,
+        "bottom": 3038.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctorHeading": {
+        "top": 2210.59375,
+        "bottom": 2321.53125,
+        "left": 24,
+        "right": 303,
+        "width": 279,
+        "height": 110.9375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 72
+      },
+      "initials": {
+        "top": 2720.53125,
+        "bottom": 2764.53125,
+        "left": 210.984375,
+        "right": 257.0625,
+        "width": 46.078125,
+        "height": 44
+      },
+      "headerBacked": "false",
+      "debug": "p 0.30q 0.00exit / scalestage 932pxdistance 1678pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checkpoint": "p0-52",
+      "filename": "large-mobile-430x932-p0-52.png",
+      "scrollY": 872,
+      "storyDistance": 1677.6000000000001,
+      "stage": {
+        "top": 0,
+        "bottom": 932,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctor": {
+        "top": 1737.59375,
+        "bottom": 2669.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctorHeading": {
+        "top": 1841.59375,
+        "bottom": 1952.53125,
+        "left": 24,
+        "right": 303,
+        "width": 279,
+        "height": 110.9375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 72
+      },
+      "initials": {
+        "top": 2351.53125,
+        "bottom": 2395.53125,
+        "left": 210.984375,
+        "right": 257.0625,
+        "width": 46.078125,
+        "height": 44
+      },
+      "headerBacked": "false",
+      "debug": "p 0.52q 0.00incoming messagestage 932pxdistance 1678pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checkpoint": "p0-8",
+      "filename": "large-mobile-430x932-p0-8.png",
+      "scrollY": 1342,
+      "storyDistance": 1677.6000000000001,
+      "stage": {
+        "top": 0,
+        "bottom": 932,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctor": {
+        "top": 1267.59375,
+        "bottom": 2199.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctorHeading": {
+        "top": 1371.59375,
+        "bottom": 1482.53125,
+        "left": 24,
+        "right": 303,
+        "width": 279,
+        "height": 110.9375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 72
+      },
+      "initials": {
+        "top": 1881.53125,
+        "bottom": 1925.53125,
+        "left": 210.984375,
+        "right": 257.0625,
+        "width": 46.078125,
+        "height": 44
+      },
+      "headerBacked": "false",
+      "debug": "p 0.80q 0.00message holdstage 932pxdistance 1678pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checkpoint": "q0-5",
+      "filename": "large-mobile-430x932-q0-5.png",
+      "scrollY": 2144,
+      "storyDistance": 1677.6000000000001,
+      "stage": {
+        "top": 0,
+        "bottom": 932,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctor": {
+        "top": 465.59375,
+        "bottom": 1397.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctorHeading": {
+        "top": 569.59375,
+        "bottom": 680.53125,
+        "left": 24,
+        "right": 303,
+        "width": 279,
+        "height": 110.9375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 72
+      },
+      "initials": {
+        "top": 1079.53125,
+        "bottom": 1123.53125,
+        "left": 210.984375,
+        "right": 257.0625,
+        "width": 46.078125,
+        "height": 44
+      },
+      "headerBacked": "false",
+      "debug": "p 1.00q 0.50doctor revealstage 932pxdistance 1678pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "checkpoint": "q1",
+      "filename": "large-mobile-430x932-q1.png",
+      "scrollY": 2610,
+      "storyDistance": 1677.6000000000001,
+      "stage": {
+        "top": -0.40625,
+        "bottom": 931.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctor": {
+        "top": -0.40625,
+        "bottom": 931.59375,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 932
+      },
+      "doctorHeading": {
+        "top": 103.59375,
+        "bottom": 214.53125,
+        "left": 24,
+        "right": 303,
+        "width": 279,
+        "height": 110.9375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 430,
+        "width": 430,
+        "height": 72
+      },
+      "initials": {
+        "top": 613.53125,
+        "bottom": 657.53125,
+        "left": 210.984375,
+        "right": 257.0625,
+        "width": 46.078125,
+        "height": 44
+      },
+      "headerBacked": "true",
+      "debug": "p 1.00q 1.00doctor revealstage 932pxdistance 1678pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checkpoint": "p0",
+      "filename": "desktop-1440x900-p0.png",
+      "scrollY": 0,
+      "storyDistance": 1620,
+      "stage": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctor": {
+        "top": 2520,
+        "bottom": 3420,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctorHeading": {
+        "top": 2640,
+        "bottom": 2805.09375,
+        "left": 64,
+        "right": 444.796875,
+        "width": 380.796875,
+        "height": 165.09375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 72
+      },
+      "initials": {
+        "top": 3207.53125,
+        "bottom": 3268.53125,
+        "left": 64,
+        "right": 128.203125,
+        "width": 64.203125,
+        "height": 61
+      },
+      "headerBacked": "false",
+      "debug": "p 0.00q 0.00identity holdstage 900pxdistance 1620pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checkpoint": "p0-3",
+      "filename": "desktop-1440x900-p0-3.png",
+      "scrollY": 486,
+      "storyDistance": 1620,
+      "stage": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctor": {
+        "top": 2034,
+        "bottom": 2934,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctorHeading": {
+        "top": 2154,
+        "bottom": 2319.09375,
+        "left": 64,
+        "right": 444.796875,
+        "width": 380.796875,
+        "height": 165.09375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 72
+      },
+      "initials": {
+        "top": 2721.53125,
+        "bottom": 2782.53125,
+        "left": 64,
+        "right": 128.203125,
+        "width": 64.203125,
+        "height": 61
+      },
+      "headerBacked": "false",
+      "debug": "p 0.30q 0.00exit / scalestage 900pxdistance 1620pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checkpoint": "p0-52",
+      "filename": "desktop-1440x900-p0-52.png",
+      "scrollY": 842,
+      "storyDistance": 1620,
+      "stage": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctor": {
+        "top": 1678,
+        "bottom": 2578,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctorHeading": {
+        "top": 1798,
+        "bottom": 1963.09375,
+        "left": 64,
+        "right": 444.796875,
+        "width": 380.796875,
+        "height": 165.09375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 72
+      },
+      "initials": {
+        "top": 2365.53125,
+        "bottom": 2426.53125,
+        "left": 64,
+        "right": 128.203125,
+        "width": 64.203125,
+        "height": 61
+      },
+      "headerBacked": "false",
+      "debug": "p 0.52q 0.00incoming messagestage 900pxdistance 1620pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checkpoint": "p0-8",
+      "filename": "desktop-1440x900-p0-8.png",
+      "scrollY": 1296,
+      "storyDistance": 1620,
+      "stage": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctor": {
+        "top": 1224,
+        "bottom": 2124,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctorHeading": {
+        "top": 1344,
+        "bottom": 1509.09375,
+        "left": 64,
+        "right": 444.796875,
+        "width": 380.796875,
+        "height": 165.09375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 72
+      },
+      "initials": {
+        "top": 1911.53125,
+        "bottom": 1972.53125,
+        "left": 64,
+        "right": 128.203125,
+        "width": 64.203125,
+        "height": 61
+      },
+      "headerBacked": "false",
+      "debug": "p 0.80q 0.00message holdstage 900pxdistance 1620pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checkpoint": "q0-5",
+      "filename": "desktop-1440x900-q0-5.png",
+      "scrollY": 2070,
+      "storyDistance": 1620,
+      "stage": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctor": {
+        "top": 450,
+        "bottom": 1350,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctorHeading": {
+        "top": 570,
+        "bottom": 735.09375,
+        "left": 64,
+        "right": 444.796875,
+        "width": 380.796875,
+        "height": 165.09375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 72
+      },
+      "initials": {
+        "top": 1137.53125,
+        "bottom": 1198.53125,
+        "left": 64,
+        "right": 128.203125,
+        "width": 64.203125,
+        "height": 61
+      },
+      "headerBacked": "false",
+      "debug": "p 1.00q 0.50doctor revealstage 900pxdistance 1620pxready",
+      "canvasCount": 1
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "checkpoint": "q1",
+      "filename": "desktop-1440x900-q1.png",
+      "scrollY": 2520,
+      "storyDistance": 1620,
+      "stage": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctor": {
+        "top": 0,
+        "bottom": 900,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 900
+      },
+      "doctorHeading": {
+        "top": 120,
+        "bottom": 285.09375,
+        "left": 64,
+        "right": 444.796875,
+        "width": 380.796875,
+        "height": 165.09375
+      },
+      "header": {
+        "top": 0,
+        "bottom": 72,
+        "left": 0,
+        "right": 1440,
+        "width": 1440,
+        "height": 72
+      },
+      "initials": {
+        "top": 687.53125,
+        "bottom": 748.53125,
+        "left": 64,
+        "right": 128.203125,
+        "width": 64.203125,
+        "height": 61
+      },
+      "headerBacked": "true",
+      "debug": "p 1.00q 1.00doctor revealstage 900pxdistance 1620pxready",
+      "canvasCount": 1
+    }
+  ],
+  "lifecycle": {
+    "modelRequests": 1,
+    "canvasCount": 1,
+    "canvasPersistedAcrossResize": true,
+    "distanceBeforeResize": 1519.2,
+    "distanceAfterResize": 1620,
+    "expectedBeforeResize": 1519.2,
+    "expectedAfterResize": 1620,
+    "focusVisible": true
+  },
+  "reducedMotion": {
+    "stagePosition": "relative",
+    "doctorMarginTop": "0px",
+    "trackHeight": 2252.859375,
+    "documentHeight": 11177,
+    "viewportHeight": 740,
+    "openingReserveVisible": true,
+    "careReserveVisible": true
+  },
+  "loadingFailure": {
+    "fallbackCount": 1,
+    "errorBoundaryCount": 0,
+    "consoleErrorCount": 0
+  },
+  "consoleErrors": []
+}
